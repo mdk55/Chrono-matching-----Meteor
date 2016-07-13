@@ -1,5 +1,6 @@
 
-# Meteor, SyncedCron, JS - benchmarking and load testing
+# Meteor, SyncedCron
 
-Test applications to demonstrate concurrency issues with our current method of running SyncedCron in a single Meteor instance.
-See commit logs for more info.
+A 2-part test application ripped from the Chrono-package for deeper research into building a simple framework that reads out notifications by handling datepicker/datetimepicker scheduling with multiple users sets by a mule deadline call. 
+
+
